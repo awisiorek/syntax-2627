@@ -18,7 +18,9 @@
 
 
 
-## Moodle-Kursseite: *folgt*
+## Moodle-Kursseite: 
+
+https://moodle.lmu.de/course/view.php?id=49240
 
 
 
@@ -87,7 +89,7 @@
 
 | Datum  | Uhrzeit | Raum |
 | ------------- | ------------- | ------------- |
-|  *folgt* |   |  |
+|  10.02.2027 |  14 Uhr  | *folgt*  |
 
 
 
